@@ -72,16 +72,6 @@ Projeto desenvolvido no contexto de estudos no **SENAI**, como parte da formaç�
 
 ---
 
-## 🧩 Próximos Passos (opcional)
-
-Possíveis evoluções didáticas:
-- Aplicar herança para tipos diferentes de itens
-- Persistência em arquivo
-- Interface gráfica ou console mais elaborada
-- Cálculo de impostos
-
----
-
 📌 Projeto simples, mas fundamental para a compreensão de **modelagem orientada a objetos**.
 
 ---
